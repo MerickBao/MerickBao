@@ -17,6 +17,7 @@
 
 
 ### 开源项目
+![MerickBao's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerickBao&count_private=true&theme=vue)
 - [兰州大学自动健康打卡](https://github.com/MerickBao/LZU-COVID-AutoCheck)
 
 ### 关于我
