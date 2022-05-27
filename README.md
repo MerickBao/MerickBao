@@ -1,4 +1,4 @@
-## Hello GitHub Fans 👋
+## Hello Everyone 👋
 [![Mail Badge](https://img.shields.io/badge/Mail-merickbao%40qq.com-orange)](mailto:merickbao@qq.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
