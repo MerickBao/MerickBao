@@ -1,5 +1,5 @@
 ## Hello Everyone 👋
-[![LeetCode Badge](https://fc.dianhsu.top/lc?user=merickbao-2&loc=cn&req=rating)](https://leetcode.cn/u/merickbao-2/)
+[![LeetCode Badge](https://fc.dianhsu.top/lc?user=merickbao-3&loc=cn&req=rating)](https://leetcode.cn/u/merickbao-3/)
 [![Mail Badge](https://img.shields.io/badge/Mail-merickbao%40qq.com-orange)](mailto:merickbao@qq.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
