@@ -1,5 +1,5 @@
 ## Hello Everyone 👋
-[![LeetCode Badge](https://img.shields.io/badge/merickbao-Knight%202235-orange?style=for-the-badge&logo=leetcode)](https://leetcode.cn/u/merickbao-3/)
+[![LeetCode Badge](https://img.shields.io/badge/merickbao-Knight%202240-orange?style=for-the-badge&logo=leetcode)](https://leetcode.cn/u/merickbao-3/)
 [![Mail Badge](https://img.shields.io/badge/Mail-merickbao%40qq.com-orange)](mailto:merickbao@qq.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
