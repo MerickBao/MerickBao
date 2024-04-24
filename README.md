@@ -22,7 +22,7 @@
 - [兰州大学自动健康打卡](https://github.com/MerickBao/LZU-COVID-AutoCheck)
 
 ### 关于我
-- [技术笔记](https://merickbao.top/)
+- [技术笔记](https://merickbao.github.io/)
 - [豆瓣](https://www.douban.com/people/154654606/?_i=3655830k7rdPbN)
 - [Leetcode](https://leetcode.cn/u/merickbao-2/)
 
